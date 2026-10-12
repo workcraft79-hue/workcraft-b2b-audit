@@ -280,3 +280,12 @@ export const SampleDeliverableModal: React.FC<SampleDeliverableModalProps> = ({
     </div>
   );
 };
+export default function Page() {
+  return (
+    <SampleDeliverableModal 
+      isOpen={true} 
+      onClose={() => {}} 
+      onSelectAudit={() => {}} 
+    />
+  )
+}
