@@ -1,0 +1,6 @@
+{
+  "name": "Workcraft - B2B AI Operations & Autonomous Workflows",
+  "description": "Custom autonomous AI agent systems, B2B process automation, and enterprise workflow engineering to scale operations and eliminate manual overhead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
